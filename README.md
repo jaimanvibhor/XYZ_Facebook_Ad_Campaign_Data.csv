@@ -1,2 +1,2 @@
 # XYZ_Facebook_Ad_Campaign_Data.csv
-This dataset contains information about ad campaigns run by XYZ company on Facebook. 
+This dataset contains information about ad campaigns run by XYZ company on Facebook. The data includes demographic information such as age and gender of the target audience, as well as their interests as specified in their Facebook public profile. It also includes campaign-specific information such as ad IDs, campaign IDs, and the amount spent by XYZ company to show the ads. The dataset also includes metrics such as impressions, clicks, and conversions, including the total number of people who enquired about the product after seeing the ad and the total number of people who bought the product after seeing the ad.
